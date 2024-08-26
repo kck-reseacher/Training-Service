@@ -1,0 +1,51 @@
+{
+	"postgres": {
+		"host": "MTAuMTAuMzcuNzE=",
+		"port": "MTU0MzI=",
+		"database": "cG9zdGdyZXM=",
+		"id": "cG9zdGdyZXM=",
+		"password": "ZGMoN0YwMEwoZG5LR34mZA=="
+	},
+	"clickhouse": {
+		"nginx": {
+			"host": "MTAuMTAuMzQuMjA=",
+			"port": "MTc3NzY="
+		},
+		"database": "eGFpb3Bz",
+		"id": "YWk=",
+		"password": "QXJGTTZFREJjcWs0OEtw"
+	},
+	"logpresso":{
+        "host": "MTAuMTAuMzQuMjE=",
+        "port": "MTg4ODg=",
+        "id": "YWlfc3BhcnNlX2Rldg==",
+        "password": "YWlhaWFpYWkxQCM="
+    },
+	"api_server": {
+		"host": "10.10.37.72",
+		"port": "14569"
+	},
+	"mlc": {
+		"host": "0.0.0.0",
+		"port": "12589"
+	},
+	"train_api_server": {
+		"host": "0.0.0.0",
+		"port": "14566"
+	},
+	"redis_server": {
+		"master": {
+			"host": "10.10.37.73",
+			"port": "17778"
+		},
+	  	"slave": {
+			"host": "10.10.37.72",
+			"port": "17778"
+		}
+    },
+	"kafka": {
+		"host": "10.10.37.71",
+		"port": "19092"
+	},
+	"sys_id": "102"
+}
